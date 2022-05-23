@@ -56,5 +56,3 @@ def get_links():
                 flag += 1   
 
 get_links()
-    
-# print('='*100 + '\n' + info.text + '\n' + '-'*100 + '\n' + "[+] " + anchors['href'] + '\n' + '='*100)
