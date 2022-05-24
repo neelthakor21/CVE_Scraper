@@ -41,6 +41,10 @@ CVE_scrap.py -n CVE-2021-44228
 CVE_scrap.py -q log4j
 ```
 
+## Output
+
+![CVE_scrap output](CVE_scrap.png)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Please report functionality issues and bugs if found.**  
 > ## License
