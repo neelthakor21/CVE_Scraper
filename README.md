@@ -41,7 +41,6 @@ CVE_scrap.py -q log4j
 ```
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-> **Please report functionality issues and bugs if found.**
->  
+**Please report functionality issues and bugs if found.**  
 > ## License
 > [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)
