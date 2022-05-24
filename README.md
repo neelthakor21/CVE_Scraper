@@ -4,7 +4,7 @@
 
 The script will fetch the links of CVE for you, based on your keyword of CVE number.Enter whatever you want to find any CVE and the script will give you links from CVE mitre with it's basic discription.
 
-##Usage
+## Usage
 
 You need to have Python version 3.4+
 
@@ -23,10 +23,13 @@ git clone https://github.com/neelthakor21/CVE_Scraper.git
 ```bash
 CVE_scrap.py -n NUMBER
 ```
-NUMBER -> give the cve number
+NUMBER -> give the cve number.It takes CVE number and give perticular link of that CVE.
+
 OR
 
 ```bash
 CVE_scrap.py -q QUERY
 ```
-QUERY -> giv the keywor related the CVE
+QUERY -> giv the keywor related the CVE.It takes keyword about CE and search and give numbers of links of CVEs related that keyword.
+
+**Please report functionality issues and bugs if found.**
