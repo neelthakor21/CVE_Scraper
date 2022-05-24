@@ -18,3 +18,15 @@ For downloading this tool...
 git clone https://github.com/neelthakor21/CVE_Scraper.git
 ```
 
+## Syntax
+
+```bash
+CVE_scrap.py -n NUMBER
+```
+NUMBER -> give the cve number
+OR
+
+```bash
+CVE_scrap.py -q QUERY
+```
+QUERY -> giv the keywor related the CVE
