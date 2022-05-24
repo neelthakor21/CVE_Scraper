@@ -36,7 +36,8 @@ QUERY -> giv the keywor related the CVE.It takes keyword about CE and search and
 
 ```bash
 CVE_scrap.py -n CVE-2021-44228
-
+```
+```bash
 CVE_scrap.py -q log4j
 ```
 
