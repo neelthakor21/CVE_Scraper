@@ -8,13 +8,13 @@ The script will fetch the links of CVE for you, based on your keyword of CVE num
 
 You need to have Python version 3.4+
 
-'''bash
+```bash
 sudo apt-get install python3
-'''
+```
 
 For downloading this tool...
 
-'''bash
+```bash
 git clone https://github.com/neelthakor21/CVE_Scraper.git
-'''
+```
 
