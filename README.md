@@ -32,4 +32,16 @@ CVE_scrap.py -q QUERY
 ```
 QUERY -> giv the keywor related the CVE.It takes keyword about CE and search and give numbers of links of CVEs related that keyword.
 
-**Please report functionality issues and bugs if found.**
+## Examples
+
+```bash
+CVE_scrap.py -n CVE-2021-44228
+
+CVE_scrap.py -q log4j
+```
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+> **Please report functionality issues and bugs if found.**
+>  
+> ## License
+> [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)
