@@ -43,7 +43,7 @@ CVE_scrap.py -q log4j
 
 ## Output
 
-![CVE_scrap output](CVE_scrap.png)
+![CVE_scrap output](cve_scraper.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Please report functionality issues and bugs if found.**  
