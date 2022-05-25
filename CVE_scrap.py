@@ -62,7 +62,7 @@ def get_links(url):
                 i = 0
                 for anchors in divs.find_all('a'):
                     if(temp == i):
-                        print('-'*100 + '\n' + "[+] LINK : " + anchors['href'] + '\n' + "="*100)
+                        print('-'*100 + '\n' + "[+] LINK : " + "cve.mitre.org" + anchors['href'] + '\n' + "="*100)
                     i+=1
                 temp+=1
                 flag += 1
