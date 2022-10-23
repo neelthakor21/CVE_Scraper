@@ -30,7 +30,7 @@ OR
 ```bash
 CVE_scrap.py -q QUERY
 ```
-QUERY -> giv the keywor related the CVE.It takes keyword about CE and search and give numbers of links of CVEs related that keyword.
+QUERY -> give the keyword related the CVE.It takes keyword about CE and search and give numbers of links of CVEs related that keyword.
 
 ## Examples
 
